@@ -1,5 +1,5 @@
 import imagen1 from "../assets/Pregunta.png"
-import imagen2 from "../assets/pregunta2.png"
+import imagen2 from "../assets/Pregunta2.png"
 
 
 const InicioCarousel = () => {
